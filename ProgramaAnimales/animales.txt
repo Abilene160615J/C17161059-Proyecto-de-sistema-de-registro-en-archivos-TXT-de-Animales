@@ -1,0 +1,4 @@
+Perro,Canis Lupus Familiaris,Mamíferos,8,Carnívoros
+Gato,Felis Catus,Mamíferos,23,Carnívoros
+Leon,Panthera leo,Mamíferos,7,Carnívoros
+Pajaro Carpintero,Picidae,Aves,14,Carnívoros
